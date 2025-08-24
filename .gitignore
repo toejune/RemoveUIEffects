@@ -76,3 +76,7 @@ crashlytics-build.properties
 /bin
 /outputdir
 /Properties
+/dist
+icon.png
+README.md
+thunderstore.toml
